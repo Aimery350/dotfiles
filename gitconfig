@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = aimerydect@gmail.com
+	name = Aimery de Clermont Tonnerre
